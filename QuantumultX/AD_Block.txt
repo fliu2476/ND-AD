@@ -28761,7 +28761,6 @@ DOMAIN,m.huoyiad1.cn,REJECT
 DOMAIN,huoyiad2.cn,REJECT
 DOMAIN,hupsouft.net,REJECT
 DOMAIN,hd.hupu.com,REJECT
-DOMAIN,lite.hupu.com,REJECT
 DOMAIN,shence.hupu.com,REJECT
 DOMAIN,ccdace.hupu.com,REJECT
 DOMAIN,hupuzhibo.cn,REJECT
