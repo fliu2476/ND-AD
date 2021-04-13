@@ -1,7 +1,8 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2021.2.27
+# Update time : 2021.4.13
+# Upate user: fliu2476
 
 # AdRule
 DOMAIN-SUFFIX,mcupdate.gstarcad.com,REJECT
