@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2021.4.13
+# Update time : 2021.4.13 11:18
 # Upate user: fliu2476
 
 # AdRule
@@ -8044,6 +8044,8 @@ DOMAIN-SUFFIX,adui.tg.meitu.com,REJECT
 DOMAIN-SUFFIX,adv.bandi.so,REJECT
 DOMAIN-SUFFIX,adx.hupu.com,REJECT
 DOMAIN-SUFFIX,adx-api.hupu.com,REJECT
+DOMAIN-SUFFIX,goblin.hupu.com,REJECT
+DOMAIN-SUFFIX,e-goblin.hupu.com,REJECT
 DOMAIN-SUFFIX,adxserver.ad.cmvideo.cn,REJECT
 DOMAIN-SUFFIX,app-ad.variflight.com,REJECT
 DOMAIN-SUFFIX,applog.mobike.com,REJECT
